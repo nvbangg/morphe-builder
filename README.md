@@ -26,16 +26,14 @@
 ### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/14/youtube-nvbangg-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/22/youtube-nvbangg-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: nvbangg/patches-1.15.1.mpp
-[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.15.1)
+Patch date: 2026-03-10<br>
+Patches: nvbangg/patches-1.17.0.mpp
+[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.17.0)
 - Bypass URL redirects
-- Change header
 - Change start page
-- Disable layout updates
 - Disable resuming Shorts on startup
 - GmsCore support
 - Hide Shorts components
@@ -200,13 +198,14 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [YouTube Music:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&ensp;<a href="../../releases/download/14/youtube-music-nvbangg-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&ensp;<a href="../../releases/download/22/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: nvbangg/patches-1.15.1.mpp
-[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.15.1)
+Patch date: 2026-03-10<br>
+Patches: nvbangg/patches-1.17.0.mpp
+[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.17.0)
 - Bypass certificate checks
+- Change start page
 - Enable exclusive audio playback
 - GmsCore support
 - Hide 'Get Music Premium'
