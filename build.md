@@ -7,7 +7,7 @@ Patches: nvbangg/patches-1.17.0.mpp
 
 Skipped:  
 Patches: hoo-dles/patches-1.12.0.mpp  
-Patches: ReVanced/patches-5.50.2.rvp  
+Patches: ReVanced/patches-5.50.0.rvp  
 Patches: MorpheApp/patches-1.17.0.mpp  
 Patches: Aunali321/patches-1.9.0.rvp  
 Patches: crimera/patches-2.0.0.rvp    
