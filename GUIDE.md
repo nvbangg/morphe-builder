@@ -16,40 +16,43 @@
 - YouTube: `youtube-nvbangg`
 - YouTube Morphe: `youtube-morphe`
 - YouTube ReVanced: `youtube-revanced`
-- YouTube Music: `youtube-music-morphe`
+- YouTube Anddea: `youtube-anddea`
+- YouTube Music Morphe: `youtube-music-morphe`
 - YouTube Music ReVanced: `youtube-music-revanced`
-- Google Photos: `google-photos-rookieenough`
+- YouTube Music Anddea: `youtube-music-anddea`
+- Google Photos DeReVanced: `google-photos-rookieenough`
 - Google Photos ReVanced: `google-photos-revanced`
 
 - Instagram: `instagram`
-- Messenger: `messenger-rookieenough`
+- Messenger DeReVanced: `messenger-rookieenough`
 - Messenger ReVanced: `messenger-revanced`
 - TikTok: `tiktok`
 - Telegram: `telegram-aunali321`
 - Telegram Web: `telegram-web-aunali321`
-- X (Twitter): `twitter-revanced`
 - X (Twitter) Piko: `twitter-crimera`
+- X (Twitter) ReVanced: `twitter-revanced`
 - Prime Video: `prime-video`
-- Disney+: `disney-rookieenough`
+- Disney+ DeReVanced: `disney-rookieenough`
 - Disney+ ReVanced: `disney-revanced`
 - WPS-Office: `wps-office`
 - Duolingo: `duolingo`
 - Cake: `cake`
 - Twitch: `twitch`
-- Reddit: `reddit`
-- Photomath: `photomath-rookieenough`
+- Reddit Morphe: `reddit-morphe`
+- Reddit Anddea: `reddit-anddea`
+- Photomath DeReVanced: `photomath-rookieenough`
 - Photomath ReVanced: `photomath-revanced`
 - Gboard: `gboard`
 - Google Recorder: `google-recorder`
-- SoundCloud: `soundcloud-rookieenough`
+- SoundCloud DeReVanced: `soundcloud-rookieenough`
 - SoundCloud ReVanced: `soundcloud-revanced`
 - Pandora: `pandora`
-- Tumblr: `tumblr-rookieenough`
+- Tumblr DeReVanced: `tumblr-rookieenough`
 - Tumblr ReVanced: `tumblr-revanced`
-- Cricbuzz: `cricbuzz-rookieenough`
+- Cricbuzz DeReVanced: `cricbuzz-rookieenough`
 - Cricbuzz ReVanced: `cricbuzz-revanced`
 - MyFitnessPal: `myfitnesspal`
-- Strava: `strava-rookieenough`
+- Strava DeReVanced: `strava-rookieenough`
 - Strava ReVanced: `strava-revanced`
 - Crunchyroll: `crunchyroll`
 - Wallcraft: `wallcraft`
