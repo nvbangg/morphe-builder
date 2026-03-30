@@ -24,11 +24,11 @@
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/35/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/37/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/35)<br>
-Patches: MorpheApp/patches-1.21.1.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: MorpheApp/patches-1.22.0.mpp
 - Bypass URL redirects
 - Disable Shorts resuming on startup
 - Downloads
@@ -51,11 +51,11 @@ Patches: MorpheApp/patches-1.21.1.mpp
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/35/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/37/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/35)<br>
-Patches: MorpheApp/patches-1.21.1.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: MorpheApp/patches-1.22.0.mpp
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -91,7 +91,7 @@ Patches: MorpheApp/patches-1.21.1.mpp
 - Hide end screen suggested video
 - Hide info cards
 - Hide layout components
-- Hide player flyout menu items
+- Hide player flyout menu components
 - Hide player overlay buttons
 - Hide related video overlay
 - Hide related videos
@@ -193,10 +193,72 @@ Patches: ReVanced/patches-6.1.0.rvp
 </details>
 
 <details>
-<summary id="YouTube-Anddea">&ensp;<a href="../../releases/download/0/youtube-anddea-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Anddea">&ensp;<a href="../../releases/download/37/youtube-anddea-v20.05.46-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v20.05.46-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patches: 
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: anddea/patches-4.0.0.mpp
+- Alternative thumbnails
+- Ambient mode control
+- Bypass URL redirects
+- Bypass image region restrictions
+- Change form factor
+- Change player flyout menu toggles
+- Change share sheet
+- Change start page
+- Custom Shorts action buttons
+- Custom double tap length
+- Description components
+- Disable QUIC protocol
+- Disable forced auto audio tracks
+- Disable forced auto captions
+- Disable haptic feedback
+- Disable layout updates
+- Disable resuming Miniplayer on startup
+- Disable resuming Shorts on startup
+- Disable sign in to TV popup
+- Disable splash animation
+- Enable debug logging
+- Enable gradient loading screen
+- Force player buttons background
+- Fullscreen components
+- GmsCore support
+- Hide accessibility controls dialog
+- Hide action buttons
+- Hide ads
+- Hide comments components
+- Hide feed components
+- Hide feed flyout menu
+- Hide layout components
+- Hide player buttons
+- Hide player flyout menu
+- Hook YouTube Music actions
+- Hook download actions
+- Miniplayer
+- Navigation bar components
+- Open links externally
+- Overlay buttons
+- Player components
+- Remove background playback restrictions
+- Remove viewer discretion dialog
+- Return YouTube Dislike
+- Return YouTube Username
+- Sanitize sharing links
+- Seekbar components
+- Set transcript cookies
+- Shorts components
+- Snack bar components
+- SponsorBlock
+- Spoof app version
+- Spoof watch history
+- Swipe controls
+- Toolbar components
+- Translations for YouTube
+- Video playback
+- Voice Over Translation
+- Visual preferences icons for YouTube
+- Reload video
+- Settings for YouTube
 </blockquote>
 </details>
 
@@ -204,11 +266,11 @@ Patches:
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/35/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/37/youtube-music-morpheapp-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/35)<br>
-Patches: MorpheApp/patches-1.21.1.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: MorpheApp/patches-1.22.0.mpp
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
@@ -265,10 +327,44 @@ Patches: ReVanced/patches-6.1.0.rvp
 </details>
 
 <details>
-<summary id="YouTube-Music-Anddea">&ensp;<a href="../../releases/download/0/youtube-music-anddea-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Anddea">&ensp;<a href="../../releases/download/37/youtube-music-anddea-v8.30.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v8.30.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patches: 
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: anddea/patches-4.0.0.mpp
+- Bitrate default value
+- Bypass image region restrictions
+- Certificate spoof
+- Change share sheet
+- Change start page
+- Dark theme
+- Disable Cairo splash animation
+- Disable QUIC protocol
+- Disable dislike redirection
+- Disable forced auto audio tracks
+- Disable forced auto captions
+- Enable landscape mode
+- Flyout menu components
+- GmsCore support
+- Hide account components
+- Hide action bar components
+- Hide ads
+- Hide layout components
+- Navigation bar components
+- Player components
+- Remove background playback restrictions
+- Remove viewer discretion dialog
+- Restore old style library shelf
+- Return YouTube Dislike
+- Return YouTube Username
+- Sanitize sharing links
+- SponsorBlock
+- Spoof app version for lyrics
+- Translations for YouTube Music
+- Video playback
+- Watch history
+- Visual preferences icons for YouTube Music
+- Settings for YouTube Music
 </blockquote>
 </details>
 
@@ -539,11 +635,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&ensp;<a href="../../releases/download/36/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&ensp;<a href="../../releases/download/37/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Disable anti-tamper
 - Enable Pro
 </blockquote>
@@ -553,11 +649,11 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&ensp;<a href="../../releases/download/36/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&ensp;<a href="../../releases/download/37/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Disable Login Integrity
 - Enable Premium
 </blockquote>
@@ -567,11 +663,11 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
-<summary id="Cake">&ensp;<a href="../../releases/download/36/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&ensp;<a href="../../releases/download/37/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Enable Plus
 </blockquote>
 </details>
@@ -598,11 +694,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit-Morphe">&ensp;<a href="../../releases/download/35/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit-Morphe">&ensp;<a href="../../releases/download/37/reddit-morpheapp-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/35)<br>
-Patches: MorpheApp/patches-1.21.1.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: MorpheApp/patches-1.22.0.mpp
 - Disable modern home
 - Disable screenshot popup
 - Hide Trending Today shelf
@@ -621,10 +717,24 @@ Patches: MorpheApp/patches-1.21.1.mpp
 **Other builds:**
 
 <details>
-<summary id="Reddit-Anddea">&ensp;<a href="../../releases/download/35/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit-Anddea">&ensp;<a href="../../releases/download/37/reddit-anddea-v2025.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v2025.12.1-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-Patches: 
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: anddea/patches-4.0.0.mpp
+- Disable screenshot popup
+- Hide Recently Visited shelf
+- Hide Trending Today shelf
+- Hide ads
+- Hide navigation buttons
+- Hide recommended communities shelf
+- Open links directly
+- Open links externally
+- Premium icon
+- Remove subreddit dialog
+- Sanitize sharing links
+- Settings for Reddit
+- Translations for Reddit
 </blockquote>
 </details>
 
@@ -690,14 +800,13 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 
 <details>
-<summary id="SoundCloud-HooDles">&ensp;<a href="../../releases/download/36/soundcloud-rookieenough-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/HooDles-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud-HooDles">&ensp;<a href="../../releases/download/37/soundcloud-hoo-dles-v2026.03.20-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/HooDles-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Disable telemetry
-- Enable offline sync
-- Hide ads
+- Enable SoundCloud Go+
 </blockquote>
 </details>
 
@@ -805,11 +914,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
 <details>
-<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/36/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/37/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Enable Premium+
 </blockquote>
 </details>
@@ -870,11 +979,50 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [KakaoTalk](https://play.google.com/store/apps/details?id=com.kakao.talk)
 
 <details>
-<summary id="KakaoTalk">&ensp;<a href="../../releases/download/31/kakaotalk-amplerevanced-v3.104.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/KakaoTalk-v0.0-gray?labelColor=FEE500&logo=kakaotalk&logoColor=000000"></a></summary>
+<summary id="KakaoTalk">&ensp;<a href="../../releases/download/37/kakaotalk-amplerevanced-v26.2.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/KakaoTalk-v26.2.2-gray?labelColor=FEE500&logo=kakaotalk&logoColor=000000"></a></summary>
 <blockquote>
 
-Patches: AmpleReVanced/revanced-patches
-
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: AmpleReVanced/patches-1.0.0-dev.5.mpp
+- Allow Hide on Any Chat
+- Allow reply to feed
+- Always Show Kick Button
+- Bypass input mention limit in non-multichat
+- Change model
+- Default external browser
+- Disable 300+ unread limit
+- Disable 99 unread limit
+- Disable ChatRoomAdController
+- Disable Collapse Button
+- Disable Community Tab
+- Disable Friend Feed tab
+- Disable Friend Lists ad
+- Disable S2Event
+- Disable SDK Tracker
+- Disable Sentry
+- Disable Talk Share Log
+- Disable chat room list ad
+- Disable verifying signature
+- Enable recording pause/resume feature
+- Force enable debug mode
+- Force enable emoticon plus feature
+- Ghost Mode
+- Hook Package Manager
+- Override feature flag
+- Play YouTube player in chat room
+- Remove BizBoard ads
+- Remove More tab ad
+- Remove OpenLink chat room list ad
+- Remove Short-form Tab
+- Remove feed ad
+- Remove focus ad
+- Remove native ad
+- Remove shop tab
+- Show deleted or hidden messages
+- Spoof App ID
+- Spoof apk checksums
+- Spoof signature
+- Version info patch
 </blockquote>
 </details>
 
@@ -882,11 +1030,11 @@ Patches: AmpleReVanced/revanced-patches
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/36/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/37/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Enable Premium
 </blockquote>
 </details>
@@ -896,11 +1044,11 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [ibis Paint X](https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app)
 
 <details>
-<summary id="ibis-Paint-X">&ensp;<a href="../../releases/download/36/ibis-paint-x-hoo-dles-v13.1.19-arm64-v8a.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v13.1.19-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
+<summary id="ibis-Paint-X">&ensp;<a href="../../releases/download/37/ibis-paint-x-hoo-dles-v13.1.19-arm64-v8a.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v13.1.19-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Enable Prime membership
 </blockquote>
 </details>
@@ -924,11 +1072,11 @@ Patches: RookieEnough/patches-1.0.1.mpp
 ### [Sofascore](https://play.google.com/store/apps/details?id=com.sofascore.results)
 
 <details>
-<summary id="Sofascore">&ensp;<a href="../../releases/download/36/sofascore-hoo-dles-v25.12.17-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
+<summary id="Sofascore">&ensp;<a href="../../releases/download/37/sofascore-hoo-dles-v25.12.17-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Disable ads
 </blockquote>
 </details>
@@ -938,11 +1086,11 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android)
 
 <details>
-<summary id="Windy">&ensp;<a href="../../releases/download/36/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
+<summary id="Windy">&ensp;<a href="../../releases/download/37/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Enable Premium
 </blockquote>
 </details>
@@ -952,11 +1100,11 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
 
 <details>
-<summary id="Proton-VPN">&ensp;<a href="../../releases/download/36/proton-vpn-hoo-dles-v5.16.83.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.16.83.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
+<summary id="Proton-VPN">&ensp;<a href="../../releases/download/37/proton-vpn-hoo-dles-v5.16.83.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.16.83.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Remove delay
 - Unlock custom DNS
 - Unlock split tunneling
@@ -1025,11 +1173,11 @@ Patches: RookieEnough/patches-1.0.1.mpp
 ### [Mimo](https://play.google.com/store/apps/details?id=com.getmimo)
 
 <details>
-<summary id="Mimo">&ensp;<a href="../../releases/download/36/mimo-hoo-dles-v9.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mimo-v9.0-gray?labelColor=5A67D8&logo=mimo&logoColor=white"></a></summary>
+<summary id="Mimo">&ensp;<a href="../../releases/download/37/mimo-hoo-dles-v9.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mimo-v9.0-gray?labelColor=5A67D8&logo=mimo&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Enable Pro
 - Spoof package signature
 </blockquote>
@@ -1040,11 +1188,11 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 
 <details>
-<summary id="Solid-Explorer">&ensp;<a href="../../releases/download/36/solid-explorer-hoo-dles-v3.4.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Solid_Explorer-v3.4.1-gray?labelColor=1976D2&logo=solidexplorer&logoColor=white"></a></summary>
+<summary id="Solid-Explorer">&ensp;<a href="../../releases/download/37/solid-explorer-hoo-dles-v3.4.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Solid_Explorer-v3.4.1-gray?labelColor=1976D2&logo=solidexplorer&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Enable Pro
 - MicroG integration
 </blockquote>
@@ -1055,11 +1203,11 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010)
 
 <details>
-<summary id="FotMob">&ensp;<a href="../../releases/download/36/fotmob-hoo-dles-v226.16092.20260302-arm64-v8a.apk"><img src="https://img.shields.io/badge/FotMob-v226.16092.20260302-gray?labelColor=26A65B&logo=botmob&logoColor=white"></a></summary>
+<summary id="FotMob">&ensp;<a href="../../releases/download/37/fotmob-hoo-dles-v226.16092.20260302-arm64-v8a.apk"><img src="https://img.shields.io/badge/FotMob-v226.16092.20260302-gray?labelColor=26A65B&logo=botmob&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: hoo-dles/patches-1.15.0.mpp
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
 - Enable FotMob+
 </blockquote>
 </details>
@@ -1069,10 +1217,12 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Meme Generator](https://play.google.com/store/apps/details?id=net.zombodroid.MemeGenerator)
 
 <details>
-<summary id="Meme-Generator">&ensp;<a href="../../releases/download/36/meme-generator-hoo-dles-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Meme_Generator-v0.0-gray?labelColor=D21F3C&logo=meme-generator&logoColor=white"></a></summary>
+<summary id="Meme-Generator">&ensp;<a href="../../releases/download/37/meme-generator-hoo-dles-v4.6671-arm64-v8a.apk"><img src="https://img.shields.io/badge/Meme_Generator-v4.6671-gray?labelColor=D21F3C&logo=meme-generator&logoColor=white"></a></summary>
 <blockquote>
 
-Patches: hoo-dles/morphe-patches
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: hoo-dles/patches-1.16.0.mpp
+- Enable Pro
 </blockquote>
 </details>
 
@@ -1081,10 +1231,12 @@ Patches: hoo-dles/morphe-patches
 ### [Komoot](https://play.google.com/store/apps/details?id=de.komoot.android)
 
 <details>
-<summary id="Komoot">&ensp;<a href="../../releases/download/36/komoot-brosssh-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Komoot-v0.0-gray?labelColor=6AA127&logo=komoot&logoColor=white"></a></summary>
+<summary id="Komoot">&ensp;<a href="../../releases/download/37/komoot-brosssh-v2025.38.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Komoot-v2025.38.2-gray?labelColor=6AA127&logo=komoot&logoColor=white"></a></summary>
 <blockquote>
 
-Patches: brosssh/morphe-patches
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: brosssh/patches-2.1.0.mpp
+- Unlock Premium features
 </blockquote>
 </details>
 
@@ -1093,10 +1245,13 @@ Patches: brosssh/morphe-patches
 ### [Mapy](https://play.google.com/store/apps/details?id=cz.seznam.mapy)
 
 <details>
-<summary id="Mapy">&ensp;<a href="../../releases/download/36/mapy-brosssh-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mapy-v0.0-gray?labelColor=3FB819&logo=mapy&logoColor=white"></a></summary>
+<summary id="Mapy">&ensp;<a href="../../releases/download/37/mapy-brosssh-v9.70.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mapy-v9.70.1-gray?labelColor=3FB819&logo=mapy&logoColor=white"></a></summary>
 <blockquote>
 
-Patches: brosssh/morphe-patches
+[Release 2026-03-30](../../releases/tag/37)<br>
+Patches: brosssh/patches-2.1.0.mpp
+- Bypass signature check
+- Unlock premium features
 </blockquote>
 </details>
 
