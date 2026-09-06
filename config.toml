@@ -119,15 +119,6 @@ changelog-keywords = ["Telegram"]
 [Telegram.patches]
 "github:rushiranpise/morphe-patches" = []
 
-[Duolingo]
-enabled = false
-brand = "rushi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
-changelog-keywords = ["Duolingo"]
-
-[Duolingo.patches]
-"github:rushiranpise/morphe-patches" = []
-
 [Adobe-Acrobat] 
 enabled = false
 brand = "rushi"
@@ -145,6 +136,15 @@ changelog-keywords = ["Proton"]
 
 [Proton-VPN.patches]
 "github:rushiranpise/morphe-patches" = []
+
+[Duolingo]
+enabled = false
+brand = "hoo-dles"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
+changelog-keywords = ["Duolingo"]
+
+[Duolingo.patches]
+"github:hoo-dles/morphe-patches" = []
 
 [Prime-Video]
 enabled = false
